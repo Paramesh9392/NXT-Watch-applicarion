@@ -1,0 +1,45 @@
+.icons {
+  height: 40px;
+  width: 40px;
+  margin-right: 7px;
+}
+.instgram-icons {
+  height: 35px;
+  width: 35px;
+  margin-right: 9px;
+}
+
+.skill-items {
+  list-style-type: disc;
+  display: flex;
+  flex-direction: row;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.skills-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: flex-start;
+}
+.skills-heading {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 18px;
+  text-align: left;
+}
+.tools-text {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 17px;
+  margin-left: 8px;
+  margin-top: 13px;
+}
+.tag-text {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 15px;
+  margin-left: 15px;
+  text-decoration: none;
+  color: rgb(34, 84, 212);
+}
